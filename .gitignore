@@ -38,3 +38,12 @@ mycollab-services-community/.mycollab/.app.properties
 mycollab-app-community/.mycollab/.app.properties
 default-mycollab-test.properties
 mycollab-app-community/src/main/config/mycollab.properties
+.idea/
+*.iml
+*.out
+.mycollab/
+workspace.xml
+cluster_node.id
+application.properties
+.lock
+*.pid
